@@ -1,0 +1,8 @@
+C:\Users\Me\documents\visual studio 2015\Projects\PYTHON\NetMonitor\Marged\bin\Release\Marged.exe.config
+C:\Users\Me\documents\visual studio 2015\Projects\PYTHON\NetMonitor\Marged\bin\Release\Marged.exe
+C:\Users\Me\documents\visual studio 2015\Projects\PYTHON\NetMonitor\Marged\bin\Release\Marged.pdb
+C:\Users\Me\documents\visual studio 2015\Projects\PYTHON\NetMonitor\Marged\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Me\documents\visual studio 2015\Projects\PYTHON\NetMonitor\Marged\bin\Release\AForge.Video.dll
+C:\Users\Me\documents\visual studio 2015\Projects\PYTHON\NetMonitor\Marged\obj\Release\Merged.csprojResolveAssemblyReference.cache
+C:\Users\Me\documents\visual studio 2015\Projects\PYTHON\NetMonitor\Marged\obj\Release\Marged.exe
+C:\Users\Me\documents\visual studio 2015\Projects\PYTHON\NetMonitor\Marged\obj\Release\Marged.pdb
